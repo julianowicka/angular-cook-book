@@ -1,4 +1,14 @@
 # AngularCookBook
+To start a project you need:
+
+## Node & npm
+Strongly recommend using a Node version manager like nvm to install Node.js and npm
+`npm install -g npm`
+
+## Angular CLI
+`npm install -g @angular/cli@latest`
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
